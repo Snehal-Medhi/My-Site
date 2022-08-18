@@ -8,13 +8,13 @@ div
 {
 background-color: #E4F9F5;
 }
-top container
+.top container
 {
 width: 200;
  height: 200;
  background-color: red;
 }
-bottom container
+.bottom container
 {
 height: 200;
  width: 200;
