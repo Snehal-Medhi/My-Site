@@ -14,6 +14,9 @@ background-color: #E4F9F5;
  background-color: red;
  width: 200px;
  height: 200px;
+ padding: 10px;
+ border: 10px;
+ border-color: grey;
 }
 .bottom-container
 {
