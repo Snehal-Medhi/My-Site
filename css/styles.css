@@ -16,7 +16,7 @@ background-color: #E4F9F5;
  height: 200px;
  padding: 10px;
  border: solid 10px;
- border-color: black;
+
 }
 .bottom-container
 {
@@ -25,5 +25,5 @@ background-color: #E4F9F5;
  height: 200px;
  width: 200px;
  border: solid 10px;
- border-color: black;
+ 
 }
